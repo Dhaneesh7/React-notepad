@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(251, 255, 250);
+}
+.log{
+    width: 30%;
+    background-color:rgba(33, 181, 181, 0.851);
+    margin-top: 10%;
+ margin-left: 30%;
+ color: blue;
+}
+h1{
+    color: white;
+    background-color: blue;
+}
+button{
+    width: 90%;
+    margin-left: 5%;
+    background-color: blue;
+    color: white;
+}
